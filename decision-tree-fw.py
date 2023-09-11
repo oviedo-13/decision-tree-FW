@@ -1,7 +1,8 @@
 # -----------------------------------------------------------------------
 # Author: Antonio Oviedo Paredes
-# Date Created: 2019-07-30
-# Description: This file contains the code to 
+# Date Created: 11/09/2023
+# Description: This file trains a decision tree trying to find the best
+# hiperparamters for the model.
 # -----------------------------------------------------------------------
 
 # Import necessary libraries
